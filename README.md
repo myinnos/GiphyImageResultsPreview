@@ -34,6 +34,8 @@ new GiphyTask(Helper.getGiphyQueryUrl(SEARCH_QUERY,
             }
         }).execute();
 ```
+**GET YOUR GIPHY KEY BY SUBMIT YOUR DEATILS FROM** [HERE - api.giphy.com/submit](http://api.giphy.com/submit "GIPHY")
+
 **To preview gif image to imageView from results** : used glide here | you can use picasso etc., [#Example](https://github.com/myinnos/GiphyImageResultsPreview/blob/master/app/src/main/java/in/myinnos/gifimageresults/GifAdapter.java "Example")
 ```
 Glide.with(getContext()).load(gif.getPreviewImageUrl()).into(previewImage);
