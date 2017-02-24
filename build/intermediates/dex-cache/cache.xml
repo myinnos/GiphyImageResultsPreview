@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\10\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_3ca5678366fab9a7fa44f20866b1890f5cddf22c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_4917d31fdc192c043428114af9663ceb147afca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_73756bcbfdf6a9606441945b617b45a473b91a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_522f32b6f8cf255ccd980ebf380794f0b72d2083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_617f1cd0312973c53758375930bd4d1ddaa64ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\glide-3.7.0_eff80ba69c4de19b0ef6f8227f2081891f539013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_bb2bb0b211166abb1034d7cffb38f73f44a6073e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_33df0153ef5f34f272398c2dc4c11119b22b1eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_8d953950fc51ecc9b24a1f7998bdc9ecbf68a0dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_8f6645bdeec6042958e8b9fcd2a340e02a299cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_29c2c23a08c556de3f750e28194a277cb53ca64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_7f346fb297376d146658f0aa0747958e0c437498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_186a3edae7d8503cc6fa97a8d0d01b851edf55fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_56383a0dca51f8ed49aeb914c3c744b65f7f688f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\GifImageResults\app\build\intermediates\exploded-aar\com.github.jitpack\gifimages\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1249314714d31c07f4a681a2cd52239e69b1f4db">
+        <dex dex="E:\bitbucket\GifImageResults\app\build\intermediates\pre-dexed\debug\com.github.jitpack-gifimages-unspecified_f20e4fb237387e7009d3119389a139ea162dd471.jar" />
+    </item>
+
+</items>
