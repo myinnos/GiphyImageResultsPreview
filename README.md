@@ -7,24 +7,24 @@ Library for GIF results, preview, play, share everything at one place!
 #### Kindly use the following links to use this library:
 
 In build.gradle (Project)
-
-	allprojects {
-		repositories {
+```java
+allprojects {
+  repositories {
 			...
-			maven { url "https://jitpack.io" }
-		}
+		maven { url "https://jitpack.io" }
 	}
-	
+}
+```
 And then in the other gradle file(may be your app gradle or your own module library gradle, but never add in both of them to avoid conflict.)
-	
-	 dependencies {
-	       compile 'com.github.myinnos:GiphyImageResultsPreview:1.0'
-	        }
-          
+```java
+dependencies {
+	compile 'com.github.myinnos:GiphyImageResultsPreview:1.0'
+}
+```
 How to use
 -----
 **GiphyTask Will gives you list of results as list** [#Example](https://github.com/myinnos/GiphyImageResultsPreview/blob/master/app/src/main/java/in/myinnos/gifimageresults/MainActivity.java "Example")
-```
+```java
 String SEARCH_QUERY = "<SEARCH_QUERY>"; //ex: Funny
 String GIPHY_KEY = "<GIPHY_KEY>"; //you can pass empty parameter to use default key
 int limit = 100; //results limit can set from 1 to 100
@@ -40,11 +40,11 @@ new GiphyTask(Helper.getGiphyQueryUrl(SEARCH_QUERY,
 **GET YOUR GIPHY KEY BY SUBMIT YOUR DEATILS FROM** [HERE - api.giphy.com/submit](http://api.giphy.com/submit "GIPHY")
 
 **To preview gif image to imageView from results** : used glide here | you can use picasso etc., [#Example](https://github.com/myinnos/GiphyImageResultsPreview/blob/master/app/src/main/java/in/myinnos/gifimageresults/GifAdapter.java "Example")
-```
+```java
 Glide.with(getContext()).load(gif.getPreviewImageUrl()).into(previewImage);
 ```
 **To play/pause gif image from results** [#Example-XML](https://github.com/myinnos/GiphyImageResultsPreview/blob/master/app/src/main/res/layout/list_item_gif.xml "Example") | [#Example](https://github.com/myinnos/GiphyImageResultsPreview/blob/master/app/src/main/java/in/myinnos/gifimageresults/GifAdapter.java "Example")
-```
+```xml
  <in.myinnos.gifimages.gif.GifView
         android:id="@+id/gif_view"
         android:layout_width="match_parent"
@@ -60,7 +60,7 @@ GifView gifView = (GifView) itemView.findViewById(R.id.gif_view);
 gifView.start(gif.getPreviewMp4Url());
 ```
 **Share gif globally** [#Example](https://github.com/myinnos/GiphyImageResultsPreview/blob/master/app/src/main/java/in/myinnos/gifimageresults/GifAdapter.java "Example")
-```
+```java
 new ShareGif(getContext(), gif.getGifUrl()).execute();
 ```
 
