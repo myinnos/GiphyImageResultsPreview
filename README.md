@@ -1,7 +1,7 @@
 # Giphy Image Results Preview
 Library for GIF results, preview, play, share everything at one place!
 
- ![Giphy Image Results Preview - Example](https://github.com/myinnos/GiphyImageResultsPreview/blob/master/gif/GiphyImageResultsPreview.gif)
+ ![Giphy Image Results Preview - Example](https://github.com/myinnos/GiphyImageResultsPreview/raw/master/gif/GiphyImageResultsPreview.gif)
 
 #### Download Demo APK from [HERE](https://github.com/myinnos/GiphyImageResultsPreview/blob/master/apk/demo-GiphyImageResults.apk "APK")
 #### Kindly use the following links to use this library:
